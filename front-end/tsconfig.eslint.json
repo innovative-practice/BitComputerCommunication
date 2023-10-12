@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "preserve",
+    "strict": true
+  },
+  "include": ["src", "vite.config.ts", ".eslintrc.cjs"]
+}
